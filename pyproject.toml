@@ -8,6 +8,13 @@ dependencies = [
     "black>=25.9.0",
     "isort>=7.0.0",
     "langchain>=1.0.0",
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+    "langchain-core>=1.0.0",
+>>>>>>> c6e55a5 (Hello World chain)
+>>>>>>> 900ec93 (langchain)
     "langchain-ollama>=1.0.0",
     "langchain-openai>=1.0.0",
     "python-dotenv>=1.1.1",

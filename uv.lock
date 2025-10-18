@@ -367,6 +367,13 @@ dependencies = [
     { name = "black" },
     { name = "isort" },
     { name = "langchain" },
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+    { name = "langchain-core" },
+>>>>>>> c6e55a5 (Hello World chain)
+>>>>>>> 900ec93 (langchain)
     { name = "langchain-ollama" },
     { name = "langchain-openai" },
     { name = "python-dotenv" },
@@ -377,6 +384,13 @@ requires-dist = [
     { name = "black", specifier = ">=25.9.0" },
     { name = "isort", specifier = ">=7.0.0" },
     { name = "langchain", specifier = ">=1.0.0" },
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+    { name = "langchain-core", specifier = ">=1.0.0" },
+>>>>>>> c6e55a5 (Hello World chain)
+>>>>>>> 900ec93 (langchain)
     { name = "langchain-ollama", specifier = ">=1.0.0" },
     { name = "langchain-openai", specifier = ">=1.0.0" },
     { name = "python-dotenv", specifier = ">=1.1.1" },
